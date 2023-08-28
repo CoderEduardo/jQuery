@@ -7,3 +7,4 @@ caixa.outerWidth(true)  //Retorna o valor do width + padding + borda + margin
 
 /*Podemos passar valores e modificar o tamanho original dos elementos, exemplo: caixa.width(2000)*/
 
+//teste
